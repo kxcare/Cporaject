@@ -2,7 +2,7 @@
 # made by hazukie
 # date: 2024.4.13
 
-# 打印警告日志
+# 打印警告日志2
 warning() {
     echo -e "\033[31m$1\033[0m"
 }
